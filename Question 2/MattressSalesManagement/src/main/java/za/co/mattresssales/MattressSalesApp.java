@@ -22,7 +22,7 @@ public class MattressSalesApp extends JFrame {
     private final JTextField totalField = outputField();
 
     public MattressSalesApp() {
-        super("Mattress Sales Management");
+        super("Mattress Katlego Sales Management");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setJMenuBar(createMenuBar());
         buildForm();
