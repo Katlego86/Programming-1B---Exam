@@ -2,19 +2,6 @@
 
 A Java Swing desktop application for processing mattress sales.
 
-## Requirements
-- JDK 17 or later
-- Maven 3.8 or later (for running the unit tests)
-
-## Run the application
-From the project folder, compile and run:
-
-```bash
-mvn clean package
-java -cp target/classes za.co.mattresssales.MattressSalesApp
-```
-
-Alternatively, open the folder as a Maven project in NetBeans, IntelliJ IDEA, or Eclipse and run `MattressSalesApp`.
 
 ## Features
 - Customer name, mattress product selection, and product price input.
@@ -27,7 +14,6 @@ Alternatively, open the folder as a Maven project in NetBeans, IntelliJ IDEA, or
 - Each processed sale is appended to `data.txt` in the application's working directory.
 
 ## Unit tests
-Run:
 
 ```bash
 mvn test
