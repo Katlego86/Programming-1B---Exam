@@ -1,7 +1,7 @@
 package za.co.mattresssales;
 
 /**
- * Performs the required sales calculations using the supplied product price.
+ *sales calculations using the supplied product price.
  */
 public class ProductCalculations implements IProductCalculations {
     private final double productPrice;
