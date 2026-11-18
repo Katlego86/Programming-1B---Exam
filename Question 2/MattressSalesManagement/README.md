@@ -15,9 +15,6 @@ A Java Swing desktop application for processing mattress sales.
 
 ## Unit tests
 
-```bash
-mvn test
-```
 
 The tests cover `GetVat_WithValidData_ReturnsCorrectValue()` and `GetTotal_WithValidData_ReturnsCorrectValue()`.
 
