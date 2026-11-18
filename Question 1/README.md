@@ -2,9 +2,6 @@
 
 A Java console application that reports mattress sales for three products over three months.
 
-## Requirements
-- Java 17 or later
-- JUnit 5 for running the unit tests
 
 ## Project structure
 - `interfaces/IProduct.java`: declares the required product-report methods.
