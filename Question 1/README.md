@@ -1,4 +1,4 @@
-# Mattress Sales Report
+# Mattress Sales Report - Katlego Mohlaka
 
 A Java console application that reports mattress sales for three products over three months.
 
@@ -10,7 +10,7 @@ A Java console application that reports mattress sales for three products over t
 - `mattresssalesreport/Main.java`: application entry point.
 - `tests/ProductTest.java`: JUnit 5 tests for total and average sales.
 
-## Sample data
+## Sample data Used With The Results Shown On the Submission File
 | Product | Month 1 | Month 2 | Month 3 |
 |---|---:|---:|---:|
 | Cloud Nine Mattress | 120 | 150 | 180 |
@@ -22,7 +22,3 @@ Expected results:
 - Average products sold per product: 446.67
 - Most popular product: Sealy Mattress
 
-## Run
-Compile the Java files and run `mattresssalesreport.Main`.
-
-To run the unit tests, add JUnit Jupiter 5 to the project's test dependencies or test libraries.
