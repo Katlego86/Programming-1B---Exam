@@ -22,7 +22,7 @@ public class PrintProduct {
 
     public void PrintSalesReport() {
         System.out.println("==============================================");
-        System.out.println("             MATTRESS SALES REPORT");
+        System.out.println("          ST10525436   MATTRESS SALES REPORT");
         System.out.println("==============================================");
 
         String[] names = product.GetProductNames();
